@@ -1,0 +1,13 @@
+‘fade-in'(default)
+‘fade-out’
+‘fade-right’
+‘fade-left’
+‘fade-up’
+‘fade-down’
+
+
+-> scrolls
+-> scrolls-anim="fade-right"
+-> scrolls-duration="1000"
+-> scrolls-delay="500"
+-> scrolls-easing="ease-in"
